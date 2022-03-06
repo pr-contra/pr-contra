@@ -1,8 +1,12 @@
-# Hello world, I'm Pedro Andrade <img src="https://raw.githubusercontent.com/pr-contra/pr-contra/main/wave.gif" width="30px">
+# Hello world! I'm Pedro Andrade <img src="https://raw.githubusercontent.com/pr-contra/pr-contra/main/wave.gif" width="30px">
 
 I'm a Frontend engineer with a great passion for technology and always ready to collaborate. I'm from Portugal 🇵🇹 and currently working at Tamanna.
+
 How to reach me:
 - 📫 **pedro.rcontra@gmail.com**
+- <img src="./assets/twitter-logo-2-1.png" width="20px"/> [@prcontra](https://twitter.com/prcontra)
+- <img src="./assets/linkedin-logo.png" width="20px"/> [pedro-a-80b7085a](https://www.linkedin.com/in/pedro-a-80b7085a/)
+- <img src="./assets/stackoverflow.png" width="20px"/> [prcontra](https://stackoverflow.com/users/3965116/prcontra)
 
 
 <!--
