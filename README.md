@@ -1,4 +1,9 @@
-### Hi there 👋
+# Hello world, I'm Pedro Andrade <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
+I'm a Frontend engineer with a great passion for technology and always ready to collaborate. I'm from Portugal 🇵🇹 and currently working at Tamanna.
+How to reach me:
+- 📫 **pedro.rcontra@gmail.com**
+
 
 <!--
 **pr-contra/pr-contra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
