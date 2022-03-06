@@ -1,4 +1,4 @@
-# Hello world! I'm Pedro Andrade <img src="https://raw.githubusercontent.com/pr-contra/pr-contra/main/assets/wave.gif" width="30px">
+# Hello 🌎! I'm Pedro Andrade <img src="https://raw.githubusercontent.com/pr-contra/pr-contra/main/assets/wave.gif" width="30px">
 
 I'm a Frontend engineer with a great passion for technology and always ready to collaborate. I'm from Portugal 🇵🇹 and currently working at Tamanna.
 
