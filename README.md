@@ -1,4 +1,4 @@
-# Hello 🌎! I'm Pedro <div width="30px"><img src="https://raw.githubusercontent.com/pr-contra/pr-contra/main/assets/wave.gif" alt="wave"></div>
+# Hello 🌎! I'm Pedro 👋
 
 I'm a Frontend engineer with a great passion for technology and always ready to collaborate. I'm from Portugal 🇵🇹 and currently working at Tamanna.
 
