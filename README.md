@@ -1,6 +1,6 @@
 # Hello 🌎! I'm Pedro 👋
 
-I'm a Frontend engineer with a great passion for technology and always ready to collaborate. I'm from Portugal 🇵🇹 and currently <br/> working 
+I'm a Frontend engineer with a great passion for technology and always ready to collaborate. I'm from Portugal 🇵🇹 and currently working 
 at [<img src="https://raw.githubusercontent.com/pr-contra/pr-contra/main/assets/gp.png" width="20px"/>](https://site.gympass.com/)
 
 How to reach me:
