@@ -10,6 +10,10 @@ How to reach me:
 - <img src="https://raw.githubusercontent.com/pr-contra/pr-contra/main/assets/stackoverflow.png" width="20px"/> [prcontra](https://stackoverflow.com/users/3965116/prcontra)
 
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=pr-contra&hide=stars&show_icons=true&theme=dark" alt="pr-contra" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pr-contra&theme=dark" alt="pr-contra" /></p>
+
 <!--
 **pr-contra/pr-contra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
