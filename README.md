@@ -17,7 +17,7 @@ How to reach me:
 
 [![Top-Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pr-contra&theme=vue-dark&layout=compact&langs_count=10&custom_title=Top%20Languages)](https://github-readme-stats.vercel.app/api/top-langs/?username=pr-contra&theme=vue-dark&layout=compact&langs_count=10&custom_title=Top%20Languages)
 
-[![r](https://visitcount.itsvg.in/api?id=pr-contra&icon=0&color=0)](https://visitcount.itsvg.in)
+[![(https://visitcount.itsvg.in/api?id=pr-contra&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!--
 **pr-contra/pr-contra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
