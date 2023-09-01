@@ -17,8 +17,6 @@ How to reach me:
 
 <!--[![Top-Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pr-contra&theme=vue-dark&layout=compact&langs_count=10&custom_title=Top%20Languages)](https://github-readme-stats.vercel.app/api/top-langs/?username=pr-contra&theme=vue-dark&layout=compact&langs_count=10&custom_title=Top%20Languages)-->
 
-----
-
 <!--[![](https://visitcount.itsvg.in/api?id=pr-contra&icon=0&color=0)](https://visitcount.itsvg.in)-->
 
 <!--
