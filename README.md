@@ -1,7 +1,7 @@
 # Hello 🌎! I'm Pedro 👋
 
 I'm a Frontend engineer with a great passion for technology and always ready to collaborate. I'm from Portugal 🇵🇹 and currently working 
-at Gympass [<img src="https://raw.githubusercontent.com/pr-contra/pr-contra/main/assets/gp.png" width="20px"/>](https://site.gympass.com/)
+at Wellhub [<img src="https://raw.githubusercontent.com/pr-contra/pr-contra/main/assets/26311162.png" width="20px"/>](https://site.gympass.com/)
 
 How to reach me:
 - 📫 **pedro.rcontra@gmail.com**
